@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 	
-## <picture><img src = "https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width = 50px></picture> **About me**
+## <picture><img src ="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
 
