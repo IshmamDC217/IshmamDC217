@@ -6,7 +6,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"><b>Hi , I'm Ishmam Ahmed! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome to my Github! &Omega;++;Self-taught+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;)]
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome to my Github! &Omega;++;Self-taught+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;)](https://git.io/typing-svg)
 </p>
 
 
