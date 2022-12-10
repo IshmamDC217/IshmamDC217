@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://media.tenor.com/02ILjyFVXWQAAAAM/handshake.gif" width ="80">
+## <b> Let's Connect! </b><img src="https://media.tenor.com/02ILjyFVXWQAAAAM/handshake.gif" width ="60">
 <br>
 <div align='left'>
 
