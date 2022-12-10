@@ -7,9 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome to my Github! &Omega;++;Self-taught+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;)](https://git.io/typing-svg)
-</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome to my Github! &Omega;+;Self-taught+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;" alt="Typing SVG" /></a>
 
 <br>
 
@@ -92,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 <a href="https://github.com/IshmamDC217/">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshmamDC217&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,0e2b38" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IshmamDC217&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,0e2b38" width="375"  alt="IshmamDC217"/>
 
 </a>
