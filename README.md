@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @IshmamDC217
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 IshmamDC217/IshmamDC217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -23,15 +17,14 @@ You can click the Preview link to take a look at your changes.
 	
 ## <picture><img src = "https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
 
 <br>
 
-- Passionate Self-taught developer and musician.
-- Part-time gamer and guitarist.
-- Working knowledge for UI/UX and graphics in classic OpenGL
-- Currently learning Web Development
-- I’m currently open for a graduate scheme or a new junior job opportunity, email me at ishmam.ahmed24@gmail.com, for my resume or just for a chat &#9749;
+- 👋 Hi, I’m @IshmamDC217, a passionate self-taught developer and musician.
+- 👀 Hobbies: Gaming and Guitars.
+- 🌱 Building knowledge in multiple languages and frameworks. Currently upgrading my skills in Front-End Development
+- 📫 I’m currently open for a graduate scheme or a new junior job opportunity, email me at ishmam.ahmed24@gmail.com, for my resume or just for a chat &#9749;
 
 <br><br>
 
@@ -125,7 +118,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 </li>
 
-<br>                                                  https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white
+<br>
 
 <li>
 <a href="https://www.instagram.com/ish.ahmed_/" target="_blank">
