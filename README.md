@@ -89,7 +89,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 <a href="https://github.com/IshmamDC217/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamDC217=compact)](https://github.com/anuraghazra/github-readme-stats)"
+  <img src="https://www.google.com/search?q=%22https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%3Fusername%3DIshmamDC217%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26line_height%3D20%26title_color%3D7A7ADB%26icon_color%3D2234AE%26text_color%3DD3D3D3%26bg_color%3D0%2C000000%2C0e2b38%22&oq=%22https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%3Fusername%3DIshmamDC217%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26line_height%3D20%26title_color%3D7A7ADB%26icon_color%3D2234AE%26text_color%3DD3D3D3%26bg_color%3D0%2C000000%2C0e2b38%22&aqs=chrome..69i57.921j0j1&sourceid=chrome&ie=UTF-8"
        width="375"  alt="IshmamDC217"/>
 
 </a>
