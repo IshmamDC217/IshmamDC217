@@ -83,12 +83,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+### Now Playing 🎧
 
-<div align="center">
-	 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamDC217&langs_count=8">
-</a>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ws36isbwoyfqk54icuoj6q2zai&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=49d2e4)](https://github.com/kittinan/spotify-github-profile)
+<br/>
 </div>
 
 <br>
