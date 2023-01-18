@@ -79,17 +79,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 -----
-
-<br>
-
-
 ### Now Playing 🎧
 
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ws36isbwoyfqk54icuoj6q2zai&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=59e8f3&bar_color_cover=false)
-
-<br/>
-</div>
-<br>
 
 -----
 
