@@ -132,7 +132,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <br>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IshmamDC217&&show_icons=true&theme=dark">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <br>
