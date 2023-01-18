@@ -87,11 +87,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <div align="center">
-
-<a href="https://github.com/IshmamDC217/">
-  <img src="https://raw.githubusercontent.com/IshmamDC217/github-stats/master/generated/overview.svg#gh-dark-mode-only)"
-       width="375"  alt="IshmamDC217"/>
-
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamDC217&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </div>
 
