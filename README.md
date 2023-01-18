@@ -89,7 +89,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 <a href="https://github.com/IshmamDC217/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IshmamDC217&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,0e2b38" width="375"  alt="IshmamDC217"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamDC217=compact)](https://github.com/anuraghazra/github-readme-stats)"
+       width="375"  alt="IshmamDC217"/>
 
 </a>
 </div>
