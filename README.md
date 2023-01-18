@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <div align="center">
-	 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamDC217&hide=javascript,css,scss,html&theme=tokyonight)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=dark)
+	 img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamDC217&hide=javascript,css,scss,html&theme=tokyonight)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=dark"
 </a>
 </div>
 
