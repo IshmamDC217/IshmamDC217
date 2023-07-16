@@ -15,9 +15,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - 👋 Hi, I’m @IshmamDC217, a passionate self-taught developer and musician.
+- 💼 Software Engineer at HLR Lookup.
 - 👀 Hobbies: Gaming and Guitars.
-- 🌱 Building knowledge in multiple languages and frameworks. Currently upgrading my skills in Front-End Development
-- 📫 I’m currently open for a graduate scheme or a new junior job opportunity, email me at ishmam.ahmed24@gmail.com, for my resume or just for a chat &#9749;
+- 🌱 Building knowledge in multiple languages and frameworks.
+- 📫 I am happy to collaborate on projects that interest me, email me at ishmam.ahmed24@gmail.com, for my resume or just for a chat &#9749;
 
 <br><br>
 
