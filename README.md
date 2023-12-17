@@ -79,8 +79,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Github top languages -->
 
-[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=IshmamDC217)](https://github.com/IshmamDC217/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamDC217&show_icons=true&locale=en&layout=compact&bg_color=30,746AB0,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=445)](https://github.com/IshmamDC217/)
 
 -----
