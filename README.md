@@ -76,19 +76,11 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 -----
-
 <!-- Github top languages -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamDC217&show_icons=true&locale=en&layout=compact&bg_color=30,746AB0,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=445)](https://github.com/IshmamDC217/)
 
 -----
-
-### Now Playing 🎧
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ws36isbwoyfqk54icuoj6q2zai&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=59e8f3&bar_color_cover=false)
-
------
-
 <br>
 <br>
 
