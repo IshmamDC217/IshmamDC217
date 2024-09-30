@@ -3,10 +3,12 @@ IshmamDC217/IshmamDC217 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="left"><b>Hi , I'm Ishmam Ahmed! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left"><b>Hi! Welcome to my page </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome to my Github! I'm Ishmam;People call me Ish!;I am a Self-taught+Developer,;A Software Engineer for HLR,;And an Active+Learner/Researcher.;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!+I'm+Ishmam;Also+known+as+Ish!;Software+Engineer+working+at+HLR;Lifelong+Learner+and+Researcher;" alt="Typing SVG" />
+</a>
 	
 ## **About me**
 
