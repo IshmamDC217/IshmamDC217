@@ -190,7 +190,7 @@ Instead of buzzwords, here's the real stuff:
 ┌───────────────────────────────────────────────────────────────┐
 │                                                               │
 │  🎮  Gaming on the ROG Strix (it was made for this)           │
-│  🎸  Playing guitar (badly, but with confidence)              │
+│  🎸  Playing guitar (shredding all day long)              │
 │  🎲  Rolling nat 20s as a D&D Bard                            │
 │  🐧  Ricing my Linux desktop until it's unrecognizable        │
 │  🧠  Overthinking system design at 2am                        │
