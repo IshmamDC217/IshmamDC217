@@ -22,7 +22,7 @@
 █   Role     : Software Developer II @ HLR Lookup                █
 █   Stack    : Full-Stack (JS/TS • PHP/Laravel • React • Astro)  █
 █   Location : Leeds, UK                                         █
-█   Status   : Building things that don't break (mostly)         █
+█   Status   : Larpmaxxing                                       █
 █                                                                █
 ██████████████████████████████████████████████████████████████████
 ```
