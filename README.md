@@ -159,7 +159,7 @@ Instead of buzzwords, here's the real stuff:
 
 ```
 🎓 Computer Science with AI - University of Leeds (2019-2023)
-📚 Computing and IT Foundation - Taylor's University (2018-2019)
+📚 Computing and IT - Taylor's University (2018-2019)
 ```
 
 ---
@@ -190,7 +190,7 @@ Instead of buzzwords, here's the real stuff:
 ┌───────────────────────────────────────────────────────────────┐
 │                                                               │
 │  🎮  Gaming on the ROG Strix (it was made for this)           │
-│  🎸  Playing guitar (shredding all day long)              │
+│  🎸  Playing guitar (shredding all day long)                  │
 │  🎲  Rolling nat 20s as a D&D Bard                            │
 │  🐧  Ricing my Linux desktop until it's unrecognizable        │
 │  🧠  Overthinking system design at 2am                        │
