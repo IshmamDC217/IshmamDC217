@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Ishmam+%F0%9F%91%8B;Software+Developer+%40+HLR+Lookup" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Ishmam+%F0%9F%91%8B;Software+Developer+%40+Acudo" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 ██████████████████████████████████████████████████████████████████
 █                                                                █
 █   Name     : Ishmam Ahmed                                      █
-█   Role     : Software Developer II @ HLR Lookup                █
+█   Role     : Software Developer II @ Acudo                     █
 █   Stack    : Full-Stack (JS/TS • PHP/Laravel • React • Astro)  █
 █   Location : Leeds, UK                                         █
 █   Status   : Larpmaxxing                                       █
@@ -42,7 +42,7 @@
 
 Full-stack software developer who speaks fluent JavaScript, tolerates PHP, and dreams in TypeScript.
 
-Currently shipping production systems at **HLR Lookup** that real humans rely on daily. I don't just write code: I untangle legacy nightmares, squash pen-test vulnerabilities before breakfast, and refactor things until they spark joy.
+Currently shipping production systems at **Acudo** that real humans rely on daily. I don't just write code: I untangle legacy nightmares, squash pen-test vulnerabilities before breakfast, and refactor things until they spark joy.
 
 When I'm not coding, I'm probably gaming, playing guitar, rolling dice as a D&D bard, or ricing my desktop until it's unrecognizable.
 
@@ -127,6 +127,11 @@ Instead of buzzwords, here's the real stuff:
 ┌─────────────────────────────────────────────────────────┐
 │                    CAREER CHANGELOG                     │
 ├─────────────────────────────────────────────────────────┤
+│  v2.0  [JAN 2026 - NOW]                                 │
+│  ├── Software Developer II @ Acudo                      │
+│  ├── Full-stack dev across JS, TS, PHP, Laravel         │
+│  ├── Cross-team collab & code review evangelist         │
+│  └── Shipping features for HLR Lookup                   │
 │                                                         │
 │  v2.0  [JUL 2025 - NOW]                                 │
 │  ├── Software Developer II @ HLR Lookup                 │
