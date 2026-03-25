@@ -59,7 +59,7 @@ When I'm not coding, I'm probably gaming, playing guitar, rolling dice as a D&D 
 │                     MULTI-OS ENJOYER                          │
 ├───────────────────────────────────────────────────────────────┤
 │                                                               │
-│  🐧  Lenovo Yoga Pro      →  Linux (Ubuntu + Caelestia 🌌)    │
+│  🐧  Lenovo Yoga Pro      →  Linux (Ubuntu + Caelestia 🌌)   │
 │  🍎  MacBook              →  macOS                            │
 │  🎮  ROG Strix            →  Windows (gaming machine)         │
 │                                                               │
