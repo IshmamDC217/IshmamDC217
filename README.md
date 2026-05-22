@@ -20,7 +20,7 @@
 █                                                                █
 █   Name     : Ishmam Ahmed                                      █
 █   Role     : Software Developer II @ Acudo                     █
-█   Stack    : Full-Stack (JS/TS • PHP/Laravel • React • Astro)  █
+█   Stack    : Full-Stack (JS/TS • PHP/Laravel • React)  █
 █   Location : Leeds, UK                                         █
 █   Status   : Larpmaxxing                                       █
 █                                                                █
@@ -82,7 +82,7 @@ Instead of buzzwords, here's the real stuff:
 
 - Design and build **full-stack features** from backend to UI
 - Improve **performance, security, and reliability** of existing systems
-- Ship with modern web tech - **Laravel, React, Astro, TypeScript**
+- Ship with modern web tech - **Laravel, React, TypeScript**
 - Collaborate across teams to turn user needs into working software
 - Continuously refactor, optimize, and question *"there has to be a better way"*
 
@@ -135,7 +135,7 @@ Instead of buzzwords, here's the real stuff:
 │                                                         │
 │  v2.0  [JUL 2025 - NOW]                                 │
 │  ├── Software Developer II @ HLR Lookup                 │
-│  ├── Leading E164 (Astro Build) maintenance & scaling   │
+│  ├── E164 maintenance & scaling   │
 │  ├── Crushing pen-test findings like bugs in prod       │
 │  └── Shipping features for TPSUnlimited                 │
 │                                                         │
