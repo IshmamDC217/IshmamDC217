@@ -20,7 +20,7 @@
 █                                                                █
 █   Name     : Ishmam Ahmed                                      █
 █   Role     : Software Developer II @ Acudo                     █
-█   Stack    : Full-Stack (JS/TS • PHP/Laravel • React)  █
+█   Stack    : Full-Stack (JS/TS • PHP/Laravel • React)          █
 █   Location : Leeds, UK                                         █
 █   Status   : Larpmaxxing                                       █
 █                                                                █
