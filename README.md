@@ -59,7 +59,7 @@ When I'm not coding, I'm probably gaming, playing guitar, rolling dice as a D&D 
 │                     MULTI-OS ENJOYER                          │
 ├───────────────────────────────────────────────────────────────┤
 │                                                               │
-│  🐧  Lenovo Yoga Pro      →  Linux (Ubuntu + Caelestia 🌌)   │
+│  🐧  Lenovo Yoga Pro      →  Linux (Ubuntu + Caelestia 🌌)    │
 │  🍎  MacBook              →  macOS                            │
 │  🎮  ROG Strix            →  Windows (gaming machine)         │
 │                                                               │
@@ -135,7 +135,7 @@ Instead of buzzwords, here's the real stuff:
 │                                                         │
 │  v2.0  [JUL 2025 - NOW]                                 │
 │  ├── Software Developer II @ HLR Lookup                 │
-│  ├── E164 maintenance & scaling   │
+│  ├── E164 maintenance & scaling                         │
 │  ├── Crushing pen-test findings like bugs in prod       │
 │  └── Shipping features for TPSUnlimited                 │
 │                                                         │
