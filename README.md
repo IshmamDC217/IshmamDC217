@@ -1,229 +1,98 @@
-<!-- ███╗   ██╗███████╗██████╗ ██████╗     ██╗  ██╗███████╗██████╗ ███████╗ -->
-<!-- ████╗  ██║██╔════╝██╔══██╗██╔══██╗    ██║  ██║██╔════╝██╔══██╗██╔════╝ -->
-<!-- ██╔██╗ ██║█████╗  ██████╔╝██║  ██║    ███████║█████╗  ██████╔╝█████╗   -->
-<!-- ██║╚██╗██║██╔══╝  ██╔══██╗██║  ██║    ██╔══██║██╔══╝  ██╔══██╗██╔══╝   -->
-<!-- ██║ ╚████║███████╗██║  ██║██████╔╝    ██║  ██║███████╗██║  ██║███████╗ -->
-<!-- ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Ishmam+%F0%9F%91%8B;Software+Developer+%40+Acudo" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:22C55E&height=160&section=header&text=Ishmam%20Ahmed&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Linux%20ricer&descSize=16&descAlignY=60" width="100%" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Full-stack+%40+Acudo;Refactoring+until+it+sparks+joy;Ricing+Linux+at+2am" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-
-<br/>
-
-```
-██████████████████████████████████████████████████████████████████
-█                                                                █
-█   Name     : Ishmam Ahmed                                      █
-█   Role     : Software Developer II @ Acudo                     █
-█   Stack    : Full-Stack (JS/TS • PHP/Laravel • React)          █
-█   Location : Leeds, UK                                         █
-█   Status   : Larpmaxxing                                       █
-█                                                                █
-██████████████████████████████████████████████████████████████████
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmam-ahmed-689b0998)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishmam.ahmed24@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=22C55E)](https://www.ishmamahmed.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ish.ahmed_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmam-ahmed-689b0998)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox&logoColor=22C55E)](https://www.ishmamahmed.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ishmam.ahmed24@gmail.com)
 
 </div>
 
----
+```yaml
+name:      Ishmam Ahmed
+role:      Software Developer II @ Acudo
+stack:     TypeScript · PHP/Laravel · React · C++
+location:  Leeds, UK
+status:    shipping
+```
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+## 👋 About
 
-## 👋 About Me
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" />
 
-Full-stack software developer who speaks fluent JavaScript, tolerates PHP, and dreams in TypeScript.
+Full-stack developer who speaks fluent TypeScript, tolerates PHP, and occasionally wanders into C++.
 
-Currently shipping production systems at **Acudo** that real humans rely on daily. I don't just write code: I untangle legacy nightmares, squash pen-test vulnerabilities before breakfast, and refactor things until they spark joy.
+At **Acudo** I build and maintain production systems people rely on every day: untangling legacy code, closing pen-test findings, and refactoring until things are simpler than I found them.
 
-When I'm not coding, I'm probably gaming, playing guitar, rolling dice as a D&D bard, or ricing my desktop until it's unrecognizable.
-
-> *"Good software is built twice: once in your head, once in code. And then twelve more times during code review."*
+Outside work I play guitar, game, and rice my Linux desktop until it's unrecognisable.
 
 <br clear="right"/>
 
----
+## 🌱 Contributions
 
-## 🖥️ My Setups
+| Project | Contribution |
+|---|---|
+| [**AnyPS5**](https://github.com/boykopovar/AnyPS5)<br/><sub>PS5 → Linux/Windows/macOS executable porting (C++20)</sub> | [`#5741`](https://github.com/boykopovar/AnyPS5/pull/5741) **fix(relinker):** reject ELF segments whose file range runs past the input, which stops the Linux output mapping the relinker's own tables into guest memory · ✅ merged |
 
-```
-┌───────────────────────────────────────────────────────────────┐
-│                     MULTI-OS ENJOYER                          │
-├───────────────────────────────────────────────────────────────┤
-│                                                               │
-│  🐧  Lenovo Yoga Pro      →  Linux (Ubuntu + Caelestia 🌌)    │
-│  🍎  MacBook              →  macOS                            │
-│  🎮  ROG Strix            →  Windows (gaming machine)         │
-│                                                               │
-│  "The right OS for the right job."                            │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-## 🧩 What I Actually Do
-
-<img align="right" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200" />
-
-Instead of buzzwords, here's the real stuff:
-
-- Design and build **full-stack features** from backend to UI
-- Improve **performance, security, and reliability** of existing systems
-- Ship with modern web tech - **Laravel, React, TypeScript**
-- Collaborate across teams to turn user needs into working software
-- Continuously refactor, optimize, and question *"there has to be a better way"*
-
-<br clear="right"/>
-
----
-
-## ⚡ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Web & Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-%230E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
----
-
-## 📜 Career Changelog
-
-<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" />
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                    CAREER CHANGELOG                     │
-├─────────────────────────────────────────────────────────┤
-│  v2.0  [JAN 2026 - NOW]                                 │
-│  ├── Software Developer II @ Acudo                      │
-│  ├── Full-stack dev across JS, TS, PHP, Laravel         │
-│  ├── Cross-team collab & code review evangelist         │
-│  └── Shipping features for HLR Lookup                   │
-│                                                         │
-│  v2.0  [JUL 2025 - NOW]                                 │
-│  ├── Software Developer II @ HLR Lookup                 │
-│  ├── E164 maintenance & scaling                         │
-│  ├── Crushing pen-test findings like bugs in prod       │
-│  └── Shipping features for TPSUnlimited                 │
-│                                                         │
-│  v1.0  [JUN 2023 - JUN 2025]                            │
-│  ├── Software Developer @ HLR Lookup                    │
-│  ├── Full-stack dev across JS, TS, PHP, Laravel         │
-│  ├── Built testing pipelines → fewer bugs, more sleep   │
-│  └── Cross-team collab & code review evangelist         │
-│                                                         │
-│  v0.2  [AUG 2021 - DEC 2021]                            │
-│  ├── Tech Intern @ UC Lab (Ottawa, Canada)              │
-│  └── AI projects & R&D - remote before it was cool      │
-│                                                         │
-│  v0.1  [MAY 2019 - JUL 2019]                            │
-│  ├── Research Assistant @ Taylor's University           │
-│  └── Blockchain research & data analysis                │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<br clear="right"/>
-
----
-
-## 🎓 Education
-
-```
-🎓 Computer Science with AI - University of Leeds (2019-2023)
-📚 Computing and IT - Taylor's University (2018-2019)
-```
-
----
-
-## 📊 GitHub Stats
-
-> Yeah I know, the record's shit. Most of my work lives in private repos. Just trust me bro.
+## ⚡ Stack
 
 <div align="center">
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 <br/>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<br/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+
+</div>
+
+## 📜 Changelog
+
+```diff
++ v2.0  Jul 2025 → now   Software Developer II @ Acudo (formerly HLR Lookup)
+        full-stack across HLR Lookup, TPSUnlimited and E164 · pen-test remediation · scaling
++ v1.0  Jun 2023 → 2025  Software Developer @ HLR Lookup
+        testing pipelines · code review · full-stack JS/TS/PHP
++ v0.2  Aug → Dec 2021   Tech Intern @ UC Lab, Ottawa (remote)
+        AI projects & R&D
++ v0.1  May → Jul 2019   Research Assistant @ Taylor's University
+        blockchain research & data analysis
+
+# edu   BSc Computer Science with AI · University of Leeds (2019–2023)
+# edu   Computing and IT · Taylor's University (2018–2019)
+```
+
+## 🖥️ Setup
+
+```
+🐧 Lenovo Yoga Pro  → Ubuntu + Caelestia     🍎 MacBook  → macOS     🎮 ROG Strix  → Windows
+```
+
+<div align="center">
+
+<sub>Most of my work lives in private repos, so the green squares undersell it.</sub>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshmamDC217&theme=dark&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=c9d1d9&sideNums=22C55E&hide_border=true" />
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=IshmamDC217&color=22C55E&style=flat-square&label=profile+views" />
 
----
-
-## 🎲 When I'm Not Deploying
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="250" />
-
-</div>
-
-```
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  🎮  Gaming on the ROG Strix (it was made for this)           │
-│  🎸  Playing guitar (shredding all day long)                  │
-│  🎲  Rolling nat 20s as a D&D Bard                            │
-│  🐧  Ricing my Linux desktop until it's unrecognizable        │
-│  🧠  Overthinking system design at 2am                        │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always down for interesting projects, nerdy tech conversations, or just saying hi.
-
-**If it involves clean code, cursed legacy systems, or D&D - I'm in.**
-
-<br/>
-
-[![Email](https://img.shields.io/badge/📧_Drop_a_mail-ishmam.ahmed24@gmail.com-22C55E?style=for-the-badge)](mailto:ishmam.ahmed24@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/ishmam-ahmed-689b0998)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=IshmamDC217&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0d1117&height=90&section=footer" width="100%" />
 
 </div>
