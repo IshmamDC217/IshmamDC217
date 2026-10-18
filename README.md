@@ -34,7 +34,7 @@ Outside work I play guitar, game, and rice my Linux desktop until it's unrecogni
 
 | Project | Contribution |
 |---|---|
-| [**AnyPS5**](https://github.com/boykopovar/AnyPS5)<br/><sub>PS5 → Linux/Windows/macOS executable porting (C++20)</sub> | [`#5741`](https://github.com/boykopovar/AnyPS5/pull/5741) **fix(relinker):** reject ELF segments whose file range runs past the input, which stops the Linux output mapping the relinker's own tables into guest memory · ✅ merged<br/>[`#6626`](https://github.com/boykopovar/AnyPS5/pull/6626) **fix(tools):** read CI workflow job keys at whatever indentation the file uses, so gated jobs in 4-space workflows pass the conventions check · ✅ merged |
+| [**AnyPS5**](https://github.com/boykopovar/AnyPS5)<br/><sub>PS5 → Linux/Windows/macOS executable porting (C++20)</sub> | [`#5741`](https://github.com/boykopovar/AnyPS5/pull/5741) **fix(relinker):** reject ELF segments whose file range runs past the input, which stops the Linux output mapping the relinker's own tables into guest memory · ✅ merged<br/>[`#6626`](https://github.com/boykopovar/AnyPS5/pull/6626) **fix(tools):** read CI workflow job keys at whatever indentation the file uses, so gated jobs in 4-space workflows pass the conventions check · ✅ merged<br/>[`#6624`](https://github.com/boykopovar/AnyPS5/pull/6624) **fix(tools):** detect Python and CMake comments across the whole file, so a `#` inside a multi-line string or CMake bracket argument no longer fails the conventions check · ✅ merged |
 
 ## ⚡ Stack
 
