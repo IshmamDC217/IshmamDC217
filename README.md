@@ -83,8 +83,8 @@ Outside work I play guitar, game, and rice my Linux desktop until it's unrecogni
 
 ```
 🐧 Lenovo Yoga Pro  → Ubuntu + Caelestia     daily driver, riced to oblivion
-🍎 MacBook          → macOS                  on the move
-🎮 ROG Strix        → Windows                gaming (it was made for this)
+🍎 MacBook Pro      → macOS                  iOS & macOS projects, Logic music projects
+🎮 ROG Strix        → Windows                ForgeRealm, personal & game dev projects, gaming
 ```
 
 <sub>The right OS for the right job.</sub>
