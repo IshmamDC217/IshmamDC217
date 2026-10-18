@@ -79,11 +79,19 @@ Outside work I play guitar, game, and rice my Linux desktop until it's unrecogni
 # edu   Computing and IT · Taylor's University (2018–2019)
 ```
 
-## 🖥️ Setup
+## 🖥️ Setup · multi-OS enjoyer
 
 ```
-🐧 Lenovo Yoga Pro  → Ubuntu + Caelestia     🍎 MacBook  → macOS     🎮 ROG Strix  → Windows
+🐧 Lenovo Yoga Pro  → Ubuntu + Caelestia     daily driver, riced to oblivion
+🍎 MacBook          → macOS                  on the move
+🎮 ROG Strix        → Windows                gaming (it was made for this)
 ```
+
+<sub>The right OS for the right job.</sub>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 <div align="center">
 
