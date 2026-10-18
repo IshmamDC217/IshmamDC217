@@ -67,7 +67,7 @@ Outside work I play guitar, game, and rice my Linux desktop until it's unrecogni
 
 ```diff
 + v2.0  Jul 2025 → now   Software Developer II @ Acudo (formerly HLR Lookup)
-        full-stack across HLR Lookup, TPSUnlimited and E164 · pen-test remediation · scaling
+        full-stack across HLR Lookup, TPSUnlimited and E164
 + v1.0  Jun 2023 → 2025  Software Developer @ HLR Lookup
         testing pipelines · code review · full-stack JS/TS/PHP
 + v0.2  Aug → Dec 2021   Tech Intern @ UC Lab, Ottawa (remote)
